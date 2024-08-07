@@ -1,4 +1,5 @@
 import streamlit as st
 
-st.title('Hello, Streamlit!')
-st.write('This is a simple Streamlit app running on Render.com.')
+st.header('Lanzar una moneda')
+
+st.write('Esta aplicación aún no es funcional. En construcción.')
